@@ -121,6 +121,7 @@ Curated libraries for a faster workflow
 - Domain-specific BERT: [CodeBERT](https://huggingface.co/codistai/codeBERT-small-v2#)
 - Scientific Domain: [scispacy (spacy for medical documents)](https://github.com/allenai/scispacy)
 - Clinical Domain: [clinicalbert-mimicnotes](https://huggingface.co/emilyalsentzer/Bio_ClinicalBERT), [clinicalbert-discharge-summary](https://huggingface.co/emilyalsentzer/Bio_Discharge_Summary_BERT)
+- BERT variations: [BERT Miniatures](https://huggingface.co/iuliaturc/bert_uncased_L-2_H-128_A-2)
 - Preprocessing: [textacy](https://github.com/chartbeat-labs/textacy)
 - Text Extraction: [textract (Image, Audio, PDF)](https://textract.readthedocs.io/en/stable/)
 - Text Generation: [gp2client](https://github.com/rish-16/gpt2client), [textgenrnn](https://github.com/minimaxir/textgenrnn), [gpt-2-simple](https://github.com/minimaxir/gpt-2-simple), [aitextgen](https://github.com/minimaxir/aitextgen)
