@@ -5,7 +5,7 @@ Curated libraries for a faster workflow
 ## Data Annotation
 - Image: [makesense.ai](https://www.makesense.ai/) 
 - Text: [doccano](https://doccano.herokuapp.com/), [prodigy](https://prodi.gy/), [dataturks](https://dataturks.com/), [brat](http://brat.nlplab.org/)
-- Audio: [audio-annotator](https://github.com/CrowdCurio/audio-annotator)
+- Audio: [audio-annotator](https://github.com/CrowdCurio/audio-annotator), [audiono]https://github.com/midas-research/audino)
 - Label in notebooks: [superintendent](https://superintendent.readthedocs.io/en/latest/installation.html)
 
 ## Data Collection
