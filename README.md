@@ -169,6 +169,7 @@ Curated libraries for a faster workflow
 - Markov chains: [markovify](https://github.com/jsvine/markovify)
 - Knowledge Graphs: [stanford-openie](https://github.com/philipperemy/Stanford-OpenIE-Python)
 - Chinese Word Segmentation: [jieba](https://github.com/fxsjy/jieba)
+- Tokenization: [sentencepiece](https://github.com/google/sentencepiece), [youtokentome](https://github.com/VKCOM/YouTokenToMe), [subword-nmt](https://github.com/rsennrich/subword-nmt)
 
 ## Audio
 - Library: [speech_recognition](https://github.com/Uberi/speech_recognition), [pyannotate](http://pyannote.github.io/), [librosa](https://librosa.github.io/librosa/index.html)
