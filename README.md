@@ -296,3 +296,4 @@ Curated libraries for a faster workflow
 
 ## Workflow
 - [ripgrep](https://github.com/phiresky/ripgrep-all)
+- [colab-cli](https://github.com/Akshay090/colab-cli): Manager colab notebook from command line
