@@ -184,6 +184,7 @@ Curated libraries for a faster workflow
 - Apriori algorithm: [apyori](https://github.com/ymoch/apyori)
 
 ## Computer Vision
+- Pretrained models: [pytorchcv](https://pypi.org/project/pytorchcv/)
 - Image processing: [scikit-image](https://github.com/scikit-image/scikit-image), [imutils](https://github.com/jrosebr1/imutils)
 - Segmentation Models in Keras: [segmentation_models](https://github.com/qubvel/segmentation_models)
 - Face recognition: [face_recognition](https://github.com/ageitgey/face_recognition), [face-alignment (find facial landmarks)](https://github.com/1adrianb/face-alignment)
