@@ -118,6 +118,7 @@ Curated libraries for a faster workflow
 
 ## NLP
 - Libraries: [spacy](https://spacy.io/) , [nltk](https://github.com/nltk/nltk), [corenlp](https://stanfordnlp.github.io/CoreNLP/), [deeppavlov](http://docs.deeppavlov.ai/en/master/index.html), [kashgari](https://kashgari.bmio.net/), [camphr (spacy plugin for transformers, elmo, udify)](https://github.com/PKSHATechnology-Research/camphr/), [transformers](https://github.com/huggingface/transformers), [ernie](https://github.com/brunneis/ernie), [stanza](https://stanfordnlp.github.io/stanza/)
+- Knowledge: [conceptnet-lite](https://github.com/ldtoolkit/conceptnet-lite)
 - Wrappers: [fast-bert](https://github.com/kaushaltrivedi/fast-bert), [simpletransformers](https://github.com/ThilinaRajapakse/simpletransformers)
 - Domain-specific BERT: [CodeBERT](https://huggingface.co/codistai/codeBERT-small-v2#)
 - Scientific Domain: [scispacy (spacy for medical documents)](https://github.com/allenai/scispacy)
