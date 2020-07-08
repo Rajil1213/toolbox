@@ -94,7 +94,7 @@ Curated libraries for a faster workflow
 
 ## Model Selection
 - Pretrained models: [modeldepot](https://modeldepot.io/browse), [pytorch-hub](https://pytorch.org/hub), [papers-with-code](https://paperswithcode.com/sota), [pretrained-models.pytorch](https://github.com/Cadene/pretrained-models.pytorch), [huggingface-models](https://huggingface.co/models)
-- Automated Machine Learning (AutoML): [auto-sklearn](https://automl.github.io/auto-sklearn), [tpot](https://github.com/EpistasisLab/tpot), [mljar-supervised](https://github.com/mljar/mljar-supervised)
+- Automated Machine Learning (AutoML): [auto-sklearn](https://automl.github.io/auto-sklearn), [tpot](https://github.com/EpistasisLab/tpot), [mljar-supervised](https://github.com/mljar/mljar-supervised), [lazypredict](https://github.com/shankarpandala/lazypredict)
 - Curations: [bert-related-papers](https://github.com/tomohideshibata/BERT-related-papers)
 - Autogenerate ML code: [automl-gs](https://github.com/minimaxir/automl-gs), [mindsdb](https://github.com/mindsdb/mindsdb), [autocat (auto-generate text classification models in spacy)](https://autocat.apps.allenai.org/), [lugwig](https://uber.github.io/ludwig/)
 - ML from command line (or Python or HTTP): [DFFML](https://intel.github.io/dffml/)
