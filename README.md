@@ -342,7 +342,6 @@ Curated libraries for a faster workflow
 | Concurrent database| [pickleshare](https://pypi.org/project/pickleshare/)||
 | Aync| [tomorrow](https://github.com/madisonmay/Tomorrow)||
 | Testing| [crosshair(find failure cases for functions)](https://github.com/pschanely/CrossHair)||
-| CLI tools| [gitjk](https://github.com/mapmeld/gitjk): Undo what you just did in git
 | Virtual webcam| [pyfakewebcam](https://github.com/jremmons/pyfakewebcam)||
 | CLI Formatting| [rich](https://github.com/willmcgugan/rich)||
 | Control mouse and output device| [pynput](https://pypi.org/project/pynput/)||
@@ -351,5 +350,6 @@ Curated libraries for a faster workflow
 ## Workflow
 |Category|Tool|Remarks|
 |---|---|---|
-| [ripgrep](https://github.com/phiresky/ripgrep-all)||
-| [colab-cli](https://github.com/Akshay090/colab-cli): Manager colab notebook from command line
+|Linux|[ripgrep](https://github.com/phiresky/ripgrep-all)||
+|Colab| [colab-cli](https://github.com/Akshay090/colab-cli) | Manager colab notebook from command line|
+|Git|[gitjk](https://github.com/mapmeld/gitjk)|Undo what you just did in git|
