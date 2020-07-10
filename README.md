@@ -3,10 +3,12 @@ Curated libraries for a faster workflow
 
 # Phase: Data
 ## Data Annotation
-- Image: [makesense.ai](https://www.makesense.ai/) 
-- Text: [doccano](https://doccano.herokuapp.com/), [prodigy](https://prodi.gy/), [dataturks](https://dataturks.com/), [brat](http://brat.nlplab.org/)
-- Audio: [audio-annotator](https://github.com/CrowdCurio/audio-annotator), [audiono](https://github.com/midas-research/audino)
-- Label in notebooks: [superintendent](https://superintendent.readthedocs.io/en/latest/installation.html)
+|Category|Tool|Remarks|
+|---|---|---|
+|Image | [makesense.ai](https://www.makesense.ai/)||
+|Text | [doccano](https://doccano.herokuapp.com/), [prodigy](https://prodi.gy/), [dataturks](https://dataturks.com/), [brat](http://brat.nlplab.org/)||
+|Audio | [audio-annotator](https://github.com/CrowdCurio/audio-annotator), [audiono](https://github.com/midas-research/audino)
+|General| [superintendent](https://superintendent.readthedocs.io/en/latest/installation.html)|Label in notebooks|
 
 ## Data Collection
 - Curations: [nlp-datasets](https://github.com/niderhoff/nlp-datasets), [The Big Bad NLP Database](https://quantumstat.com/dataset/dataset.html)
